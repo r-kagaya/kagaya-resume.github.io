@@ -11,7 +11,7 @@ title: トップページ
 個人サイト: https://rkaga.super.site  
 Blog: [r-kaga's log](https://r-kaga.com/)  
 X: [ry0_kaga](https://twitter.com/ry0_kaga)  
-Zenn: https://zenn.dev/r_kaga  
+Zenn: [r_kaga](https://zenn.dev/r_kaga)  
 Github: [r-kaga](https://github.com/r-kaga)  
 
 ID連携システムや、BtoB SaaS開発などで5年ほどの経験があります。バックエンド、クラウドインフラ、プラットフォーム開発、イネーブルメントチームなど様々なレイヤーでソフトウェア開発を経験。  
