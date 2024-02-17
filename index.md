@@ -8,7 +8,7 @@ title: トップページ
 ## 基本情報
 名前: 加賀谷諒(かがやりょう)  
 生年月日: 1995/4/26  
-[個人サイト](https://rkaga.super.site), [Blog](https://r-kaga.com/), [X](https://twitter.com/ry0_kaga), [Zenn](https://zenn.dev/r_kaga), [Github](https://github.com/r-kaga)  
+[自己紹介](https://rkaga.super.site), [Blog](https://r-kaga.com/), [X](https://twitter.com/ry0_kaga), [Zenn](https://zenn.dev/r_kaga), [Github](https://github.com/r-kaga)  
 
 ID連携システムや、BtoB SaaS開発などで5年ほどの経験があります。バックエンド、クラウドインフラ、プラットフォーム開発、イネーブルメントチームなど様々なレイヤーでソフトウェア開発を経験。  
 学生時代に受託系の会社でiOSアプリエンジニアとして、某アフリカの国家の官公庁向けのダイエットアプリ、某靴メーカーのイベント限定販促アプリ、自社開発として旅程管理アプリの開発を行う。  
