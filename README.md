@@ -9,5 +9,5 @@ DO [What] Improved leaderboard page performance [How] using ElastiCache, [Outcom
 必ずしもこう書かないと駄目という事ではないです。しかし相手に"具体性"を伝える事が何より大切だという事だけおさえて欲しいです。  
 👇に詳しく書いているので気になる方は見てみてください。  
 
-Work Experience（職歴）| InterviewCat
+Work Experience（職歴）| InterviewCat  
 https://interviewcat.dev/p/interviewcat/get-to-interview#9fb126db3e01437892700a54a0c8ad06
