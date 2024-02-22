@@ -53,7 +53,6 @@ DB・シークレット等のマイグレーション、トークン類の再設
 
 ##### 業務改善
 - [企業情報検索ツール](https://note.com/ry0_kagaya/n/n66bce33cb2b4)
-  - https://note.com/ry0_kagaya/n/n66bce33cb2b4 
 - お客様企業の組織・科目階層エクセルからプロダクトFMTファイルへ変換ツール
 - 表記揺れ検知ツール
 
